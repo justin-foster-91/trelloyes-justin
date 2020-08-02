@@ -1,7 +1,7 @@
 import React from 'react';
-import Card from './Card';
+import './Cards.css';
 
-function List(props) {
+function Cards(props) {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function List(props) {
   );
 }
 
-export default List;
+export default Cards;
